@@ -1,0 +1,36 @@
+body {
+    margin-top: 400px;
+    margin-bottom: 400px;
+    margin-left: 400px;
+    margin-right: 400px;
+    font-family: sans-serif;
+}
+
+
+.title {
+    margin-top: 0px;
+    margin-bottom: 8px;
+    padding: 8px;
+    background: rgb(200, 241, 252);
+
+}
+
+.content {
+    margin-bottom: 8px;
+    padding: 16px 8px;
+    background: rgb(200, 241, 252);
+
+}
+
+.button-container {
+    margin-bottom: 10px;
+    padding: 16px 8px;
+    background: rgb(200, 241, 252);
+    text-align: center;
+   
+}
+button {
+    display: block;
+    margin: 0 auto;
+    padding: 8px 24px;
+}
